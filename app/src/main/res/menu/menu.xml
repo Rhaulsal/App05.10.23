@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/penguim"
+        android:icon="@drawable/favorite"
+        android:title="Penguim"
+        app:showAsAction="ifRoom"
+
+        />
+    <item
+        android:id="@+id/onzedonve"
+        android:icon="@drawable/onzedonove"
+        android:title="onzedesetembro"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/velha"
+        android:icon="@drawable/idosa"
+        android:title="Velha"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/pearlharbor"
+        android:icon="@drawable/pearlharbor"
+        android:title="Pearlharbor"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
